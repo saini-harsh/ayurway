@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Pages -->
+  <url><loc>https://www.ayurwaylifecare.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.ayurwaylifecare.com/products</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.ayurwaylifecare.com/about</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.ayurwaylifecare.com/accreditations</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.ayurwaylifecare.com/blog</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.ayurwaylifecare.com/contact</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+
+  <!-- Product Pages (40+ items) -->
+  <url><loc>https://www.ayurwaylifecare.com/products/acidity-bricid-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/anti-viral-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/brain-sharper-brain-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/calcium-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/calculi-care-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/cough-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/diabetes-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/digest-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/fat-burner-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/giloy-tulsi-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/growth-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/heart-care-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/immunity-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/iron-care-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/lactoway-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/liver-care-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/liver-enzyme-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/nutritional-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/ortho-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/piles-care-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/platelet-up-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/prostate-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/rectify-al-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/relax-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/thyroid-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/whoop-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/women-care-syrup</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/aloevera-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/ashwagandha-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/ayur-x-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/blood-purifier-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/calculi-care-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/fat-burner-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/ganoderma-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/hair-bloom-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/immunity-booster-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/joint-vati-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/liver-care-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/memory-care-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/moringa-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/muscle-builder-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/noni-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/piles-care-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/shilajit-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/spirulina-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/thyroid-care-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/triphala-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/uricaway-tablets</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/collagen-powder</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/constipation-powder</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/diabetes-powder</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/no-gas-powder</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/stem-cell-powder</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/kids-digest-drops</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/kids-multivitamin-drops</loc><priority>0.8</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/products/tulsi-drops</loc><priority>0.8</priority></url>
+
+  <!-- Marketplace Pages (25+ items) -->
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-mohali</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-chandigarh</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-delhi</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-ahmedabad</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-gurugaon</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-delhi-ncr</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-tricity</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-kolkata</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-third-party-ayurvedic-manufacturing-in-mumbai</loc><priority>0.85</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/ayurvedic-third-party-manufacturing-company-in-india</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/ayurvedic-third-party-manufacturer-india</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/ayurvedic-contract-manufacturing-india</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/ayurvedic-and-nutraceutical-manufacturer-india</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/gmp-and-iso-certified-ayurvedic-manufacturer</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/who-gmp-ayurvedic-contract-manufacturing</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/herbal-third-party-manufacturing-services</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/ayurvedic-private-label-manufacturer-india</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/best-ayurvedic-third-party-manufacturing-partner-in-india</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/who-gmp-certified-ayurvedic-contract-manufacturer</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/ayurvedic-tablets-and-capsules-contract-manufacturer</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/ayurvedic-syrups-oils-and-powders-manufacturing</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/low-moq-ayurvedic-contract-manufacturing-services</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/oem-odm-ayurvedic-supplement-manufacturer</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/private-label-ayurvedic-manufacturing-solutions</loc><priority>0.9</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/marketplace/third-party-manufacture-herbal-products-india</loc><priority>0.9</priority></url>
+
+  <!-- Blog Pages -->
+  <url><loc>https://www.ayurwaylifecare.com/blog/the-rise-of-ayurvedic-supplements</loc><priority>0.6</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/blog/understanding-gmp-certification</loc><priority>0.6</priority></url>
+  <url><loc>https://www.ayurwaylifecare.com/blog/herbal-sourcing-best-practices</loc><priority>0.6</priority></url>
+</urlset>
